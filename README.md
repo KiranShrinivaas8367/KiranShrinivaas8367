@@ -45,11 +45,6 @@
 </a>
 <!--  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt=""> -->
 
-
-
- 
-<!--
-
 **KiranShrinivaas8367/KiranShrinivaas8367** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🤔 I’m looking for help with ...
