@@ -43,20 +43,5 @@
  <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=KiranShrinivaas8367&hide_border=true&bg_color=0d1117&color=58A6FF&point=ffc800&line=DD2727&custom_title=KiranShrinivaas8367/>
 </a>
-<!--  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt=""> -->
 
-**KiranShrinivaas8367/KiranShrinivaas8367** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-
-Here are some ideas to get you started:
--->
-
-<!-- - 🔭 I’m currently working on Full Stack Web Development.
-- 🌱 I’m currently learning Python + c++ + Data Structures + mysql
-- 👯 I’m looking to collaborate on Frontend Web Project(HTML CSS JS {As of now})
-- 📫 How to reach me: arulmurgavel04b@gmail.com
-- ⚡ Fun fact: Nothing -->
 
