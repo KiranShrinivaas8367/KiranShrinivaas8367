@@ -3,31 +3,31 @@
  <div align=center>
   <img src="https://user-images.githubusercontent.com/85959289/174630328-4218d68e-714d-427d-b7a7-a81a964e491e.gif" alt="web tech">
   <br>
-  <img src="https://img.shields.io/badge/HTML5-A5BECC?style=for-the-badge&logo=html5&logoColor=white" alt="" width="150px">
-  <img src="https://img.shields.io/badge/CSS3-354259?style=for-the-badge&logo=css3&logoColor=white" alt="" width="150px">
+  <img src="https://img.shields.io/badge/HTML5-A5BECC?style=for-the-badge&logo=html5&logoColor=white" alt="" width="150px" height="50px">
+  <img src="https://img.shields.io/badge/CSS3-354259?style=for-the-badge&logo=css3&logoColor=white" alt="" width="150px" height="50px">
  </div>
  <br>
  <div align=center>
   <img src="https://user-images.githubusercontent.com/85959289/174631049-b946b724-0ccd-4fc7-9936-f1405c96a97f.gif" alt="Programming Language">
   <br>
-   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="" width="150px>
+   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=clogoColor=white" alt="" width="80px" height="45px">
  </div>
  <br>
- <div align=center><img src="https://user-images.githubusercontent.com/85959289/174632132-01dca71e-b714-4159-a1ae-7933e44182c6.gif" /></div>
+ 
  <br>
  <div align=center>
   <img src="https://user-images.githubusercontent.com/85959289/174632132-01dca71e-b714-4159-a1ae-7933e44182c6.gif" alt="OS">
   <br>
-  <img src="https://img.shields.io/badge/Pop!_OS-293462?style=for-the-badge&logo=Pop!_OS&logoColor=white" alt="" width="150px">
-  <img src="https://img.shields.io/badge/Windows-3BACB6?style=for-the-badge&logo=windows&logoColor=white" alt=""width="150px">
+  <img src="https://img.shields.io/badge/Pop!_OS-293462?style=for-the-badge&logo=Pop!_OS&logoColor=white" alt="" width="150px" height="45px">
+  <img src="https://img.shields.io/badge/Windows-3BACB6?style=for-the-badge&logo=windows&logoColor=white" alt=""width="150px" height="45px">
  </div>
  <br>
  <div align=center>
   <img src="https://user-images.githubusercontent.com/85959289/174633535-0448d85c-3832-44aa-b7a5-967d94323e97.gif" alt="Tools">
   <br>
-  <img src="https://img.shields.io/badge/Git-5584AC?style=for-the-badge&logo=git&logoColor=white" alt="" width="100px">
-  <img src="https://img.shields.io/badge/GitHub-2F8F9D?style=for-the-badge&logo=github&logoColor=white" alt="" width="150px">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-006E7F?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="" width="300px">
+  <img src="https://img.shields.io/badge/Git-5584AC?style=for-the-badge&logo=git&logoColor=white" alt="" width="100px" height="50px">
+  <img src="https://img.shields.io/badge/GitHub-2F8F9D?style=for-the-badge&logo=github&logoColor=white" alt="" width="150px" height="50px">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-006E7F?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="" width="300px" height="50px">
  </div>
  <br>
  <br>
