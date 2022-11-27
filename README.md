@@ -38,7 +38,7 @@
 
 <br>
 
-<img width=45% src="https://github-readme-stats.vercel.app/api?username=bloodbrother&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffc800&icon_color=DD2727&text_color=58A6FF&hide=commits" />
+<img width=45% src="https://github-readme-stats.vercel.app/api?username=KiranShrinivaas8367&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffc800&icon_color=DD2727&text_color=58A6FF&hide=commits" />
 
 <br>
 
