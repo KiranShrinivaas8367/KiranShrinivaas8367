@@ -11,6 +11,7 @@
   <img src="https://user-images.githubusercontent.com/85959289/174631049-b946b724-0ccd-4fc7-9936-f1405c96a97f.gif" alt="Programming Language">
   <br>
    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=clogoColor=white" alt="" width="80px" height="45px">
+   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=clogoColor=white" alt="" width="80px" height="45px">
  </div>
  <br>
  
